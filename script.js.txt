@@ -1,0 +1,5 @@
+document.getElementById('contact-link').addEventListener('click', function(event) {
+    alert('Danke fur Ihr Interesse an XL Mobel. Sie konnen uns jetzt anrufen!');
+    // ≈сли вы не хотите, чтобы браузер переходил по ссылке после показа уведомлени€, используйте следующую строку:
+    // event.preventDefault();
+});
